@@ -5,3 +5,5 @@
 ![pre](https://user-images.githubusercontent.com/98352284/206234401-8b25526a-5490-4c5a-8bd7-8999389d53fe.jpg)
 ![q4](https://user-images.githubusercontent.com/98352284/206234403-119a99bf-fd8d-4f03-9d3e-ebe911ea528c.jpg)
 
+The first three pictures respresent the binary expreesion tree from question 3.
+The last photo is a tree for question 4.
