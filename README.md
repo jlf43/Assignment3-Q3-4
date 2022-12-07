@@ -7,3 +7,5 @@
 
 The first three pictures respresent the binary expreesion tree from question 3.
 The last photo is a tree for question 4.
+
+Whenever I tried to add a .txt file of my expression trees, it would not show up so I screenshoted instead and uploaded the file as a pdf document.
