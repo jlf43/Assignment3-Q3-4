@@ -1,0 +1,23 @@
+﻿QUESTION 3:
+
+
+Post order: x y z + a b - c * / -
+  
+
+
+
+Pre order: * + a - x y / c d 
+
+
+
+
+  
+
+
+
+In order: x / y + 3 * b / c
+
+
+  
+
+QUESTION 4:
